@@ -1,5 +1,4 @@
-Here are **clean, simple notes** you can save for next time so you NEVER make a mistake while uploading to S3 using AWS CLI.
-Keep this as your personal checklist 👇
+
 
 ---
 
@@ -103,4 +102,3 @@ aws s3 ls s3://BUCKET_NAME/ --recursive --profile PROFILE_NAME
 
 ---
 
-If you want, I can generate a **printable PDF version** of these notes for you.
